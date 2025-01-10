@@ -19,7 +19,8 @@
         "textproto",
         "textproto-grammar",
         "text-proto",
-        "text-proto-grammar"
+        "text-proto-grammar",
+        "txtpb"
     ],
     "engines": {
         "vscode": "^1.62.0"
@@ -43,12 +44,14 @@
                     "Textual Protobuf",
                     "pbtxt",
                     "prototxt",
-                    "textproto"
+                    "textproto",
+                    "txtpb"
                 ],
                 "extensions": [
                     ".pbtxt",
                     ".prototxt",
-                    ".textproto"
+                    ".textproto",
+                    ".txtpb"
                 ],
                 "configuration": "./language-configuration.json"
             }

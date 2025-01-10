@@ -1,7 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
     "name": "Protocol Buffer Text Format",
-    "fileTypes": ["pbtxt", "prototxt", "textproto"],
+    "fileTypes": ["pbtxt", "prototxt", "textproto", "txtpb"],
     "foldingStartMarker": "(\\{|\\[)\\s*$",
     "foldingStopMarker": "^\\s*(\\}|\\])\\s*$",
     "patterns": [
