@@ -1,14 +1,14 @@
 {
-    "name": "textproto-grammer",
+    "name": "txtpb-grammer",
     "displayName": "TextProto",
     "description": "Syntax Highlighting for the Protocol Buffer Text Format",
-    "version": "0.0.8",
-    "publisher": "thejustinwalsh",
+    "version": "0.0.1",
+    "publisher": "thx123",
     "author": {
-        "name": "Justin Walsh <contact.me@thejustinwalsh.com>"
+        "name": "thx123"
     },
     "contributors": [
-        "Marcus R. Brown <contact@marcusrbrown.com>"
+        "https://github.com/thejustinwalsh/textproto-grammar"
     ],
     "keywords": [
         "pbtxt",
